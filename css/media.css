@@ -1,0 +1,796 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*header start*/
+header {
+    padding-bottom: 10px;
+}
+.hr_img {
+    right: 60%;
+}
+.c_nav {
+    padding-top: 30px;
+}
+.menu ul li a {
+	font-size: 14px;
+    padding: 10px 0 0 0 !important;
+    text-align: right;
+}
+/*banner start*/
+.b_text {
+    text-align: center;
+    padding: 50px 0;
+}
+.b_text h1 {
+    margin-bottom: 10px !important;
+    font-size: 20px;
+}
+.c_p{
+    margin-bottom: 25px !important;
+    font-size: 12px;
+    line-height: 20px;
+}
+.btn_cus {
+    margin: 0 auto;
+    height: 38px;
+    width: 120px;
+    font-size: 10px;}
+.btn_cen{
+
+}
+.car_ind {
+        margin-bottom: 0;
+        margin-right: 65%;
+    }
+.car_ind p {
+    font-size: 10px;
+}
+.btn_cus i {
+    padding: 0px 5px;
+}
+/*welcome start*/
+.welcome {
+    padding-bottom: 20px;
+}
+.com_h1 {
+    padding: 10px 0 15px;
+    font-size: 16px;
+}
+.com_p {
+    font-size: 14px;
+    margin-bottom: 10px !important;
+    line-height: 14px;
+}
+.box {
+    margin: 30px 0;
+}
+/*about start*/
+.about {
+    padding: 0;
+}
+.about_img {
+    padding: 0 50px 0;
+}
+.about_text {
+    text-align: center;
+    padding: 30px 0 20px;
+    }
+.h1_pad {
+    font-size: 18px;
+    padding: 0 0 10px !important;
+}
+.about_text p {
+    font-size: 10px;
+    padding-bottom: 10px !important;
+}
+.btn_cus {
+        margin: 15px auto;
+        height: 35px;
+        width: 140px;
+        font-size: 12px;
+    }
+/*work start*/
+.navbar-toggler{
+    margin: 0 auto;
+ }
+.menu2 ul li a {
+    text-align: center;
+}
+.active_border{
+    border: none;
+}
+.pic {
+    padding: 30px 40px 50px;
+}
+.pic2 {
+    padding: 0px;
+}
+.pic_box {
+    bottom: 60px;
+    padding: 0px 10px 10px;
+}
+.sm_edit2{
+    margin: -50px 0 50px;  
+}
+.pic_sm {
+        margin: 0 0 -45px;
+    }
+/*choose start*/
+.choose_list {
+    padding: 25px 0;
+}
+/*people start*/
+.people{
+    padding-bottom: 30px !important;
+}
+.cus_card {
+        text-align: center;
+        margin: 0 30px 40px;
+        padding: 0 50px 0;
+    }
+.card_h5{
+    text-align: center;
+    font-size: 16px;
+}
+.card_p{
+    font-size: 14px;
+}
+.img_list {
+    top: 12%;
+    width: 32px;
+}
+/*price start*/
+.price {
+    padding-bottom: 25px;
+}
+.p_box {
+    margin: 20px 0 40px;
+}
+.box_h1 {
+    font-size: 12px;
+}
+.box_h2 {
+    padding: 20px 0;
+    font-size: 20px;
+}
+.box_h2 span {
+    font-size: 12px;
+}
+.box_p2 {
+    font-size: 12px;
+    margin-bottom: 14px !important;
+}
+.box_btn{
+    margin: 15px 0 10px !important;
+}
+.l_price {
+    text-align: center;
+    padding: 10px 0 10px;
+}
+.lp_h2{
+    font-size: 12px;
+}
+.lp_h2 span {
+    padding: 0px 5px 0;
+}
+.lp_btn {
+    margin: 0 auto;
+}
+.p_last{
+    padding: 0px 0 40px;
+}
+/*slide last*/
+.f_slide {
+    padding-bottom: 0px;
+}
+.caro_right {
+    text-align: center;
+    margin: -50px 0px 0px;
+    padding: 20px 0 20px !important;
+    border-right: none;
+}
+.caro_left{
+    border-left: none;
+    padding: 20px 80px 20px !important;
+}
+.caro_parent2, .caro_parent{
+    border: none;
+}
+.caro_left img {
+    border-radius: 25%;
+}
+
+.fs_h1, .fs_h2 {
+    font-size: 14px;
+    margin: 0px 0 10px !important;
+}
+.car_ind2 {
+    height: 200px;
+    width: 25px;
+    left: 65%;
+    margin-top: 5px;
+}
+.fs_p {
+    font-size: 12px;
+}
+.p_padding {
+        font-size: 10px;
+        margin-bottom: 5px !important;
+    }
+.mid_br{
+    display: none;
+ }
+/*contact start*/
+.contact_h1 {
+    font-size: 20px;
+}
+.form_cus {
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 18px !important;
+}
+.contact_btn {
+    border: 1px solid var(--bl);
+    margin: -10px 0px 0 !important;
+}
+/*footer start*/
+footer {
+    margin: 20px 0;
+}
+.footer_list {
+    margin-bottom: 50px !important;
+}
+.foot_p {
+    font-size: 12px;
+}
+.footer_list ul li a {
+    font-size: 14px;
+    padding: 5px 5px 5px;
+}
+.foot_l p {
+    font-size: 8px;
+}
+.foot_r ul li a {
+    padding: 0;
+    font-size: 10px;
+}
+}
+
+
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*	header start*/
+header {
+    padding-bottom: 10px;
+}
+.hr_img {
+    right: 75%;
+}
+.menu ul li a {
+    padding: 10px 0 0 0 !important;
+    text-align: right;
+}
+/*banner start*/
+.b_text {
+    text-align: center;
+    padding: 50px 0;
+}
+.b_text h1 {
+    margin-bottom: 10px !important;
+    font-size: 25px;
+}
+.c_p{
+    margin-bottom: 25px !important;
+    font-size: 14px;
+}
+.btn_cus {
+    margin: 0 auto;
+    height: 40px;
+    width: 135px;
+    font-size: 12px;
+}
+.btn_cus i {
+        padding: 0px 5px;
+    }
+
+.car_ind {
+        margin-bottom: 0;
+        margin-right: 65%;
+    }
+.car_ind p {
+    padding: 5px 0 0;
+    font-size: 10px;
+}
+.btn_cus i {
+    padding: 0px 10px;
+}
+/*welcome start*/
+.welcome {
+    padding-bottom: 0;
+}
+.com_h1 {
+    padding: 15px 0 20px;
+    font-size: 20px;
+}
+.com_p {
+    margin-bottom: 15px !important;
+    line-height: 18px;
+}
+.box_p {
+    padding: 0px 10px 0px;
+    margin-bottom: 10px !important;
+}
+/*about start*/
+.about {
+    padding: 20px 0;
+}
+.about_img {
+    padding: 0 50px 0;
+}
+.about_text {
+        text-align: center;
+        padding: 30px 0 0;
+    }
+.h1_pad {
+    font-size: 20px;
+    padding: 0 0 20px !important;
+}
+.about_text p {
+    font-size: 14px;
+    padding-bottom: 15px !important;
+}
+.btn_cus {
+    margin: 15px auto;
+    height: 35px;
+    width: 140px;
+    font-size: 12px;
+    }
+/*work start*/
+.work {
+    padding-bottom: 45px !important;
+}
+.menu2 ul li a {
+    font-size: 14px;
+    margin: 0px 10px 0;
+}
+.active_border{
+    border: none !important;
+ }
+.sm_edit2{
+    margin-top: -90px;
+}
+.pic_sm{
+    margin-top: 100px;
+}
+.sm_edit{
+    padding: 0px 50px 0;
+}
+/*choose start*/
+.choose_list {
+    padding: 25px 0;
+}
+/*people start*/
+.people{
+    padding-bottom: 30px !important;
+}
+.cus_card {
+    margin: 0 30px 40px;
+}
+.card_h5{
+    font-size: 12px;
+}
+.card_p{
+    font-size: 12px;
+}
+.img_list {
+    top: 12%;
+    width: 32px;
+}
+/*price start*/
+.price {
+    padding-bottom: 30px;
+}
+.p_box {
+    margin: 30px 0 40px;
+}
+.box_h1 {
+    font-size: 14px;
+}
+.box_h2 {
+    padding: 20px 0;
+    font-size: 25px;
+}
+.box_h2 span {
+    font-size: 16px;
+}
+.box_p2 {
+    font-size: 14px;
+    margin-bottom: 15px !important;
+}
+.box_btn{
+    margin: 20px 0 25px !important;
+}
+.l_price {
+    text-align: center;
+    padding: 20px 0 20px;
+}
+.lp_h2{
+    font-size: 14px;
+}
+.lp_btn {
+    margin: 0 auto;
+}
+.p_last{
+    padding: 0px 0 50px;
+}
+/*slide last*/
+.f_slide {
+    padding-bottom: 0px;
+}
+.caro_right {
+    text-align: center;
+    margin: -40px 0px 0px;
+    padding: 20px 0 20px !important;
+    border-right: none;
+}
+.caro_left{
+    border-left: none;
+    padding: 20px 180px 20px !important;
+}
+.caro_parent2, .caro_parent{
+    border: none;
+}
+.caro_left img {
+    border-radius: 10%;
+}
+
+.fs_h1, .fs_h2 {
+    margin: 0px 0 15px !important;
+}
+.car_ind2 {
+    height: 200px;
+    width: 25px;
+    left: 60%;
+    margin-top: 15px;
+}
+.fs_p {
+    font-size: 14px;
+}
+.p_padding {
+    margin-bottom: 5px !important;
+}
+.mid_br{
+    display: none;
+ }
+ /*contact start*/
+.contact_h1 {
+    font-size: 20px;
+    margin-bottom: -20px !important;
+}
+.form_cus {
+    margin-bottom: 15px !important;
+}
+}
+
+
+
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*header start*/
+header {
+    padding-bottom: 10px;
+}
+.hr_img {
+    right: 80.5%;
+}
+.menu ul li a {
+    padding: 10px 0 0 0 !important;
+    text-align: right;
+}
+/*banner start*/
+.b_text {
+    padding: 100px 0;
+}
+.b_text h1 {
+    font-size: 30px;
+}
+.c_p{
+    font-size: 14px;
+}
+.btn_cus {
+    height: 45px;
+    width: 160px;
+    font-size: 14px;
+}
+.car_ind {
+    margin-right: 65%;
+}
+.btn_cus i {
+    padding: 0px 5px;
+}
+/*welcome start*/
+.welcome {
+    padding-bottom: 0;
+}
+.com_h1 {
+    padding: 15px 0 20px;
+    font-size: 25px;
+}
+.com_p {
+    font-size: 14px;
+    margin-bottom: 30px !important;
+}
+/*about start*/
+.about {
+        padding: 20px 0 50px;
+    }
+.about_img {
+    padding: 0;
+}
+.h1_pad {
+    font-size: 20px;
+    padding: 0 0 10px !important;
+}
+.about_text {
+    padding: 0;
+}
+.about_text p {
+    font-size: 12px;
+    padding-bottom: 12px !important;
+}
+.btn_cus {
+        height: 35px;
+        width: 140px;
+        font-size: 12px;
+    }
+/*work start*/
+.menu2 ul li a {
+    font-size: 15px;
+    margin: 0px 18px 0;
+}
+.active_border{
+    border: none !important;
+}
+.c_paad {
+    margin-top: -80px;
+}
+.pic {
+    padding: 20px 0 50px;
+}
+.pic2 {
+    padding: 18px 0 50px;
+}
+.pic_box {
+    padding: 0px 0 0;
+    bottom: 90px;
+}
+.pic_box h2 {
+    font-size: 14px;
+}
+.pic_box p {
+    font-size: 12px;
+}
+/*people start*/
+.people{
+    padding-bottom: 40px !important;
+}
+.cus_card {
+    margin: 0 30px 40px;
+}
+.card_h5{
+    font-size: 18px;
+}
+.card_p{
+    font-size: 14px;
+}
+/*price start*/
+.price {
+    padding-bottom: 30px;
+}
+.p_box {
+        margin: 40px 0 50px;
+    }
+.l_price {
+    text-align: center;
+    padding: 20px 0 20px;
+}
+.lp_h2{
+    font-size: 16px;
+}
+.lp_btn {
+    margin: 0 auto;
+}
+.p_last{
+    padding: 0px 0 80px;
+}
+/*slide last*/
+.f_slide {
+    padding-bottom: 20px;
+}
+.caro_right {
+    padding: 20px 0 20px !important;
+}
+.caro_left {
+        padding: 20px 45px 20px !important;
+    }
+.fs_h1, .fs_h2 {
+    margin: 0px 0 15px !important;
+}
+.car_ind2 {
+    width: 40px;
+    height: 300px;
+    margin-top: 15px;
+    left: 28%;
+}
+.fs_p {
+    font-size: 14px;
+}
+.p_padding {
+    margin-bottom: 5px !important;
+}
+.mid_br{
+    display: none;
+ }
+ .caro_right {
+        padding: 20px 0 20px !important;
+        border-right: 1px solid var(--bl);
+    }
+/*contact start*/
+.contact_h1 {
+    font-size: 20px;
+    margin-bottom: -20px !important;
+}
+.form_cus {
+    margin-bottom: 15px !important;
+}
+}
+
+
+
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*header start*/
+header {
+    padding-bottom: 10px;
+}
+.hr_img {
+    right: 84.5%;
+}
+/*banner start*/
+.car_ind {
+    margin-right: 45%;
+}
+.c_p{
+    font-size: 14px;
+}
+.btn_cus {
+    height: 45px;
+    width: 160px;
+    font-size: 14px;
+}
+.b_text {
+    padding: 150px 0;
+    color: var(--wh);
+}
+/*welcome start*/
+.box {
+    margin: 30px 0;
+ }
+ /*about start*/
+ .about{
+    padding-bottom: 50px;
+ }
+ .about_img {
+    padding: 0 0 0;
+}
+.about_text {
+    padding: 0 20px 0;
+}
+.h1_pad {
+    padding: 0 0 15px;
+}
+.about_text p {
+    font-size: 14px;
+    padding-bottom: 15px !important;
+}
+.btn_bor {
+    margin: 13px 0 0;
+    border: 1px solid var(--bl);
+}
+/*people start*/
+.cus_card {
+    padding: 0 10px 0;
+}
+.card_h5,
+.card_p{
+    font-size: 12px;
+}
+.img_list {
+    top: 12%;
+    width: 32px;
+}
+/*slide last*/
+.caro_right {
+    padding: 20px 0 20px !important;
+}
+.caro_left {
+        padding: 20px 40px 20px !important;
+    }
+.fs_h1, .fs_h2 {
+    margin: 0px 0 15px !important;
+}
+.car_ind2 {
+    height: 77vh;
+}
+.fs_p {
+    font-size: 14px;
+}
+.p_padding {
+    margin-bottom: 10px !important;
+}
+.car_ind2 {
+        height: 295px;
+        margin-right: 0;
+    }
+}
+
+
+
+
+ /*Extra Large devices (desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+/*about start*/
+.h1_pad {
+    padding: 0 0 20px;
+}
+.about_text p {
+    font-size: 14px;
+    padding-bottom: 20px !important;
+}
+.btn_bor {
+    margin: 25px 0 0;
+    border: 1px solid var(--bl);
+}
+
+/*slide last*/
+.caro_right {
+    padding: 0 0 0px !important;
+}
+.caro_left {
+    padding: 20px 60px 20px !important;
+}
+.fs_h1, .fs_h2 {
+    margin: 20px 0 10px !important;
+}
+.car_ind2 {
+        height: 318px;
+        margin-right: 0;
+    }
+ }
+
+
+
+
+/*Extra Extra large (XXL) devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) { 
+/*    welcome start*/
+.box_p {
+    font-size: 20px;
+    margin-bottom: 20px !important;
+}
+/*about start*/
+.h1_pad {
+    padding: 0px 0 40px;
+}
+.btn_bor {
+        margin: 25px 0 0;
+    }
+.car_ind2 {
+        height: 360px;
+        margin-right: 0;
+    }
+
+ }
